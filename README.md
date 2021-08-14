@@ -1,6 +1,10 @@
-## Mountain for Bpytop
+<p align="center">
+    <img src="/img/mountain.png" width="80" />
+    <h2 align="center">Mountain for Bpytop</h2>
+</p>
 
-<p>A dark, neutral color scheme</p>
+<p align="center">Enchanting in its mystique and majesty.</p>
+
 
 ## Installation
 Copy `mountain.theme` over to `~/.config/bpytop/themes/`
